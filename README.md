@@ -32,7 +32,7 @@ npm install
 - 🔗 [AtMostFear](https://sites.google.com/view/atmostfeardevelopersite/)
 - [Support Server Link](https://discord.gg/6XSjbKBbJT)
 - [Host on Replit](https://replit.com/github/RayZenYTBE/Pegasus)
-- [Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/Eris)
+- [Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/Pegasus)
 # Copyright 
 Copyright 2021 © All RIghts are Reserved
 # Credits
